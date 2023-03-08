@@ -7,4 +7,8 @@
 
 ## The Projects
 
-**1. FoodBuzz**: [GitHub](https://github.com/Radiant690/FoodBuzz) | [Demo]()
+**1. FoodBuzz - Nutrition  Tracker**: [GitHub](https://github.com/Radiant690/FoodBuzz) | [Demo]()
+**2. Artsy - Pixel Editor**: [GitHub](https://github.com/Radiant690/FoodBuzz) | [Demo]()
+**3. Mailbox**: [GitHub](https://github.com/Radiant690/FoodBuzz) | [Demo]()
+**4. Google Translate**: [GitHub](https://github.com/Radiant690/FoodBuzz) | [Demo]()
+**5. Google Lens**: [GitHub](https://github.com/Radiant690/FoodBuzz) | [Demo]()
