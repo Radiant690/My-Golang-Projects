@@ -12,3 +12,10 @@
 **3. Mailbox**: [GitHub](https://github.com/Radiant690/FoodBuzz) | [Demo]() \
 **4. Google Translate**: [GitHub](https://github.com/Radiant690/FoodBuzz) | [Demo]() \
 **5. Google Lens**: [GitHub](https://github.com/Radiant690/FoodBuzz) | [Demo]()
+
+| Project  | Github & Codebase                                                 | Deployment & Preview |   |   |
+|----------|-------------------------------------------------------------------|----------------------|---|---|
+| FoodBuzz | [FoodBuzz Code \| Github ](https://github.com/Radiant690/FoodBuzz) | dep                  |   |   |
+|          |                                                                   |                      |   |   |
+|          |                                                                   |                      |   |   |
+|          |                                                                   |                      |   |   |
